@@ -1,0 +1,83 @@
+[
+	{
+		"title": "Balón de Newcom",
+		"description": "Confeccionado en cuero vacuno cromo flor con terminación «Soft Touch Grip»",
+		"price": 12000,
+		"thumbnail": "Sin imagen",
+		"code": 2246,
+		"stock": 25,
+		"id": "e6e0473f-6bd8-4d1f-8ec9-072864905d67"
+	},
+	{
+		"title": "Balón de voleibol Super Extra",
+		"description": "Confeccionado en cuero vacuno cromo flor con terminación «Soft Touch», calidad «Super Extra».",
+		"price": 10000,
+		"thumbnail": "Sin imagen",
+		"code": 2247,
+		"stock": 25,
+		"id": "72950164-f41b-48f7-99f7-c8f4fb8c3d99"
+	},
+	{
+		"title": "Balón de Voleibol PU japonés calidad League",
+		"description": "Tamaño y peso reglamentario, vulcanizado, con cámara butílica flotante con devanado en hilo de nylon de 1º calidad y válvula intercambiable de cierre automático utilizado en forma oficial y exclusiva por la Federación de Voleibol Argentino y Asociación de Clubes Liga Argentina de Voleibol.",
+		"price": 10000,
+		"thumbnail": "Sin imagen",
+		"code": 2248,
+		"stock": 25,
+		"id": "28d262b0-99af-4da1-9c35-b4e895808b42"
+	},
+	{
+		"title": "Balón de voleibol, calidad «Extra»",
+		"description": "Confeccionado en cuero vacuno cromo flor, calidad “Extra”, 18 gajos, tamaño y peso reglamentario, vulcanizado, con cámara butílica flotante, con devanado en hilo de nylon de primera calidad, válvula intercambiable.",
+		"price": 10000,
+		"thumbnail": "Sin imagen",
+		"code": 2249,
+		"stock": 25,
+		"id": "d3abb865-e354-4987-9a48-89282f3e533f"
+	},
+	{
+		"title": "Balón de Medicimbol",
+		"description": "Ideal para entrenamiento del armador, confeccionado en cuero vacuno cromo flor, calidad «Extra», 18 gajos, peso 400- 450 grs, vulcanizado, con cámara butílica flotante, con devanado en hilo de Nylon de primera calidad, vávula intercambiable.",
+		"price": 10000,
+		"thumbnail": "Sin imagen",
+		"code": 2250,
+		"stock": 25,
+		"id": "8c4b9563-3660-4ebb-b241-bbc3bbb5e184"
+	},
+	{
+		"title": "Balón de voleibol, calidad Classic",
+		"description": "Confeccionado en cuero sintético de PVC, calidad «Classic», 18 gajos, tamaño y peso reglamentario, vulcanizado, con cámara butílica flotante, con devanado en hilo de nylon de primera calidad, válvula intercambiable.",
+		"price": 10000,
+		"thumbnail": "Sin imagen",
+		"code": 2251,
+		"stock": 25,
+		"id": "0acdb025-168e-4a1e-a4e1-13d97fa6609f"
+	},
+	{
+		"title": "Balón de Voleibol de goma calidad High Soft",
+		"description": "Calidad «High Soft», vulcanizado, cámara butílica con devanado en hilo de nylon de 1º calidad y válvula intercambiable.",
+		"price": 10000,
+		"thumbnail": "Sin imagen",
+		"code": 2252,
+		"stock": 25,
+		"id": "36a04829-431f-486a-81dc-4bd118e80713"
+	},
+	{
+		"title": "Balón de voleibol de goma calidad Híper Grip",
+		"description": "Confeccionado en goma, modelo Helicoidal, calidad «Híper Grip», vulcanizado, cámara butílica, con devanado de hilo de nylon de 1º calidad y válvula intercambiable.",
+		"price": 10000,
+		"thumbnail": "Sin imagen",
+		"code": 2253,
+		"stock": 25,
+		"id": "4490f615-49c6-4786-96f7-8921edb3cb00"
+	},
+	{
+		"title": "Mini balón tricolor para souvenir.",
+		"description": "Mini balón de voleibol tricolor para souvenir, confeccionado en cuero vacuno cromo flor, 18 gajos, vulcanizado, 47 cm de circunferencia, réplica balón oficial de juego.",
+		"price": 10000,
+		"thumbnail": "Sin imagen",
+		"code": 2254,
+		"stock": 25,
+		"id": "14160e55-47b4-4efc-85ff-a5390c4dc976"
+	}
+]
